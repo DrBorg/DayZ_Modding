@@ -70,9 +70,9 @@ class CfgVehicles
 			scope=2;
 			hiddenSelectionsTextures[]=
 			{
-				"yourmodpath\data\BomberJacket_black_co.paa",
-				"yourmodpath\data\BomberJacket_black_co.paa",
-				"yourmodpath\data\BomberJacket_black_co.paa"
+				"\yourmodpath\data\BomberJacket_black_co.paa",
+				"\yourmodpath\data\BomberJacket_black_co.paa",
+				"\yourmodpath\data\BomberJacket_black_co.paa"
 			};
 		};
 };
